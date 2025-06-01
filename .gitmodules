@@ -1,0 +1,9 @@
+[submodule "UVCTestCamera"]
+	path = UVCTestCamera
+	url = https://github.com/pandelevanhochust/UVCTestCamera.git
+[submodule "ClientServer_FE-"]
+	path = ClientServer_FE-
+	url = https://github.com/pandelevanhochust/ClientServer_FE-.git
+[submodule "ClientServer_BE"]
+	path = ClientServer_BE
+	url = https://github.com/pandelevanhochust/ClientServer_BE.git
